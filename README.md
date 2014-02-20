@@ -42,6 +42,7 @@ All issues should go to this GitHub repository Issues.
 <li>http://rubyonrails.org/</li>
 <li>http://guides.rubyonrails.org/getting_started.html</li>
 <li>http://sirupsen.com/setting-up-unicorn-with-nginx/</li>
+<li>https://github.com/blog/517-unicorn</li>
 <li>http://guides.rubyonrails.org/getting_started.html</li>
 <li>http://getbootstrap.com/getting-started/</li>
 <li>http://foundation.zurb.com/docs/</li>
