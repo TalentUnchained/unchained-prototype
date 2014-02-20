@@ -32,6 +32,7 @@ This prototype will focus on creating a web application using Ruby on Rails and 
 <li>Implement Test Driven Development</li>
 <li>At least backend code should be tested (UnitTest)</li>
 We should talk about this later with the client.
+</ul>
 
 <h1>Issues</h1>
 All issues should go to this GitHub repository Issues.
