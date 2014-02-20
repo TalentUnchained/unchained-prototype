@@ -1,4 +1,9 @@
 unchained-prototype
 ===================
 
-This prototype will focus on creating a web application that communicates with REST services ( backend application ) and displays the information on the frontend application.
+This prototype will focus on creating a web application using Ruby on Rails and Nginx + Unicorn to setup de web server.
+
+<h1>Technologies</h1>
+<ul>
+  <li>a
+</ul>
