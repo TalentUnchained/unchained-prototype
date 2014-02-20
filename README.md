@@ -47,6 +47,8 @@ All issues should go to this GitHub repository Issues.
 <li>http://getbootstrap.com/getting-started/</li>
 <li>http://foundation.zurb.com/docs/</li>
 <li>http://docs.vagrantup.com/v2/</li>
+<li>https://github.com/goncalonsp/RubyOnRails-References</li>
+<li>http://ruby.railstutorial.org/ruby-on-rails-tutorial-book</li>
 </ul>
 
 <h1>Deadlines</h1>
