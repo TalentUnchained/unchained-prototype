@@ -48,7 +48,7 @@ All issues should go to this GitHub repository Issues.
 <li>http://foundation.zurb.com/docs/</li>
 <li>http://docs.vagrantup.com/v2/</li>
 <li>https://github.com/goncalonsp/RubyOnRails-References</li>
-<li>http://ruby.railstutorial.org/ruby-on-rails-tutorial-book</li>
+<li><strong>http://ruby.railstutorial.org/ruby-on-rails-tutorial-book</strong></li>
 </ul>
 
 <h1>Deadlines</h1>
